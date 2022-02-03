@@ -11,3 +11,9 @@ https://github.com/onnx/models/tree/master/vision/object_detection_segmentation/
 https://github.com/onnx/models/tree/master/vision/object_detection_segmentation/yolov2-coco
 
 Place them into the "Model" folder name them "TinyYolo2_model.onnx" and "yolov2-coco-9.onnx" or change the path code to match the file names.
+
+# Ressources used for this project.
+
+For this project I have followed the tutorial from Microsoft.ML:
+
+https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/object-detection-onnx
