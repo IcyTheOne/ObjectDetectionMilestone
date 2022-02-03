@@ -20,4 +20,4 @@ https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/object-detect
 
 # Sample result
 
-![Screenshot from console output](/ObjectDetectionMilestone/assets/CaptureResults.PNG?raw=true "Optional Title")
+![Screenshot from console output](ObjectDetectionMilestone/assets/CaptureResults.PNG?raw=true "Optional Title")
