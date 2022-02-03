@@ -7,4 +7,22 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="assets\images" />
+      <Folder Include="assets\Model" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="assets\images\image5.jpg">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.ML" Version="1.7.0" />
+      <PackageReference Include="Microsoft.ML.ImageAnalytics" Version="1.7.0" />
+      <PackageReference Include="Microsoft.ML.OnnxRuntime" Version="1.10.0" />
+      <PackageReference Include="Microsoft.ML.OnnxTransformer" Version="1.7.0" />
+    </ItemGroup>
+
 </Project>
