@@ -1,4 +1,4 @@
-# ObjectDetectionMilestone
+# ObjectDetection
 C# Project demonstrating the use of ObjectDetection with Deeplearning models TinyYolov2 and Yolov2
 
 # To run the project, two deep learning models have to be added to the project first
