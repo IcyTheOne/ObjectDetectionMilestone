@@ -17,3 +17,7 @@ Place them into the "Model" folder name them "TinyYolo2_model.onnx" and "yolov2-
 For this project I have followed the tutorial from Microsoft.ML:
 
 https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/object-detection-onnx
+
+# Sample result
+
+![Screenshot from console output](/ObjectDetectionMilestone/assets/CaptureResults.PNG?raw=true "Optional Title")
